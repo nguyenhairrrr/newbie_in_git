@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 my name is hai huhu
+=======
+my name is hai 
+hehe
+>>>>>>> refs/remotes/origin/main
